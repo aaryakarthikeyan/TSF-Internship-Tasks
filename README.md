@@ -7,7 +7,7 @@ As a part of the  Graduate Rotational Internship Program (GRIP) at The Sparks Fo
 
 LinkedIn Profile Improvement.
 
-A. Choose an appropriate right professional profile picture for my LinkedIn profile\n.
+A. Choose an appropriate right professional profile picture for my LinkedIn profile.
 B. Made a list of all my relevant skills.
 C. Tried to grow my network i.e i made about 30 connections.
 D. Followed relevant influencers for my industry.
