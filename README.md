@@ -1,7 +1,8 @@
 # TSF-Internship-Tasks
 A Repository Consisting Of The Tasks Performed That Was Given By The Sparks Foundation During My Internship
 
-As a part of the  Graduate Rotational Internship Program (GRIP) at The Sparks Foundation i was given a set of tasks to complete.
+As a part of the  Graduate Rotational Internship Program (GRIP) at The Sparks Foundation under the Data Science & Business Analytics
+Tasks i was given a set of tasks to complete.
 
 1.TASK 0
 
